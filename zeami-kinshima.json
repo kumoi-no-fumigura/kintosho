@@ -6,7 +6,12 @@
  "yomi": "きんとうしょ",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "小謡集",
+  "era": "永享8年（1436）",
+  "author": "世阿弥",
+  "desc": "佐渡に流された世阿弥が、その地の風物を謡った小謡を集めたもの。"
+ },
  "editions": [
   {
    "pid": "859394",
